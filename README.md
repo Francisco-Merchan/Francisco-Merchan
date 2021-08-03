@@ -1,5 +1,5 @@
 ### Hola 👋, mi nombre es Francisco
-#### soy software developer
+#### soy Front-End Developer
 
 Habilidades: HTML / CSS / JS / REACT
 
